@@ -1,25 +1,26 @@
 Hi 👋, I'm Nitish Ahuja
-Check out my Portfolio
+Passionate Software Developer Specializing in Frontend and Backend Technologies
+🔭 I’m currently working on
+Leading frontend development for innovative projects at Decision Point Analytics, integrating technologies like GPT-4 into conversational BI tools.
 
-👨‍💻 About Me
-As a Master's student in Computer Information Systems at Northeastern University, I specialize in Big Data Analytics. I bring hands-on experience in frontend development, cloud computing, and data analytics, having led impactful projects at Decision Point Analytics and co-founding Elev8 Solar. My skills range from programming in various languages to mastering frameworks and tools like React, Node.js, AWS, and Azure. I'm passionate about Agile development, machine learning, and enhancing user experiences through innovative software solutions.
+👯 I’m looking to collaborate on
+Projects that leverage my expertise in React, JavaScript, TypeScript, Next.js, and cloud technologies.
 
-🚀 Currently Working On
-Frontend development and data-driven solutions
-Leading technical innovations at Elev8 Solar
-🌱 Learning
-Advancing in Machine Learning and Cloud Computing
-💬 Ask Me About
-JavaScript, React, Cloud Technologies, and Data Analytics
-📫 How to Reach Me
-Email: ahuja.nit@northeastern.edu
-LinkedIn: Nitish Ahuja
-⚡ Fun fact
-I'm an avid problem solver with a knack for optimizing code and software processes.
-Connect with me:
-nitishahuja GitHub LinkedIn
+🤝 I’m looking for help with
+Expanding my knowledge in Machine Learning, Data Analytics, and Computer Vision, as part of my Master's studies at Northeastern University.
 
-Languages and Tools:
-JavaScript, Java, Python, React, Node.js
-AWS, Azure, Docker, Kubernetes, Jenkins
-Git, GitHub, Visual Studio Code, Postman
+🌱 I’m currently learning
+Advanced techniques in cloud computing and full-stack development.
+
+💬 Ask me about
+Frontend development, agile methodologies, cloud technologies, and enhancing data interaction through innovative software solutions.
+
+📫 How to reach me:
+ahuja.nit@northeastern.edu
+
+👨‍💻 All of my projects are available at
+GitHub
+
+⚡ Fun fact:
+I enjoy exploring the intersection of technology and efficiency to create impactful software solutions.
+
