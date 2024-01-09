@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js & Next.js**
 
-- 📫 How to reach me **Email: ahuja.nit@northeastern.edu LinkedIn: Nitish Ahuja**
+- 📫 How to reach me **Email: ahuja.nit@northeastern.edu**
+- **LinkedIn: <a href="https://www.linkedin.com/in/nitishahuja/" target="blank">Nitish Ahuja</a>**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FbOcc-w1cPeLdREM7V0rURF1eAsKirbB/view?usp=sharing](https://drive.google.com/file/d/1FbOcc-w1cPeLdREM7V0rURF1eAsKirbB/view?usp=sharing)
 
