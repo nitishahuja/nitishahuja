@@ -9,20 +9,16 @@
 
 ### About Me
 
-I am a Full-Stack Software Engineer with 2.5 years of experience designing and implementing end-to-end solutions across web, cloud, and backend systems. Proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, and **AWS**, I’ve contributed to projects that have driven over $500K in revenue. My work includes building scalable architectures, automating workflows, and enhancing performance with cutting-edge technologies like **GenAI**, **NLP**, and **AI-driven insights**. 
+I am a Full-Stack Software Engineer with 2.5 years of experience designing and implementing end-to-end solutions across web, cloud, and backend systems. Proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, and **AWS**, I’ve contributed to projects that have driven over $500K in revenue. My work includes building scalable architectures, automating workflows, and enhancing performance with cutting-edge technologies like **Generative AI**, **NLP**, and **AI-driven insights**.
 
-As a Co-Founder of a solar energy startup, I built data-driven ROI prediction tools and automated operations, achieving $50K+ in revenue in the first year. Passionate about **AI integrations**, I have developed solutions leveraging **OpenAI APIs**, **NLP models**, and **D3.js** for intuitive data visualizations.
+As a Co-Founder of a solar energy startup, I built data-driven ROI prediction tools and automated operations, achieving $50K+ in revenue in the first year. Passionate about **AI integrations**, I have developed solutions leveraging **OpenAI APIs**, **NLP models**, and advanced data visualization tools.
 
 ---
 
 ### 🔭 What I'm Working On
-- Developing scalable, AI-enhanced systems for real-time data analysis and automation
-- Building robust, full-stack platforms that bridge AI with cloud-native and serverless architectures
-- Exploring innovations in Generative AI for seamless user experiences
-
-### 🌱 What I'm Learning
-- Advancing skills in **Rust** for high-performance systems programming
-- Deepening expertise in **distributed systems**, **vector databases**, and **transformer models**
+- Developing AI-enhanced platforms for real-time data insights and intelligent automation
+- Leveraging **transformer models**, **NLP**, and **Generative AI** for innovative user experiences
+- Building scalable cloud-based architectures that bridge AI and full-stack development
 
 ---
 
@@ -37,60 +33,118 @@ As a Co-Founder of a solar energy startup, I built data-driven ROI prediction to
 
 #### **Languages**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="SQL" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
 </p>
 
 #### **Frontend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
+  </a>
 </p>
 
 #### **Backend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  </a>
 </p>
 
 #### **AI and Data**
 <p>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>
+  </a>
 </p>
 
 #### **Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" alt="Snowflake" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="40" height="40"/>
+  </a>
 </p>
 
 #### **DevOps/Cloud**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/azure/azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  </a>
 </p>
 
 #### **Other Tools**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/>
+  </a>
 </p>
