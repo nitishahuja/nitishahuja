@@ -94,14 +94,3 @@ As a Co-Founder of a solar energy startup, I built data-driven ROI prediction to
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishahuja&show_icons=true&locale=en&layout=compact" alt="nitishahuja" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishahuja&show_icons=true&locale=en" alt="nitishahuja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishahuja&" alt="nitishahuja" /></p>
